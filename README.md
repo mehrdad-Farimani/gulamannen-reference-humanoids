@@ -7,7 +7,7 @@ It provides a structured set of humanoid configurations that allow robotics team
 
 The platform is intended as a reusable baseline for research, prototyping, and early-stage humanoid development.
 
-Link to Onshape file: [Onshape](https://cad.onshape.com/documents/501ce9a5619591c04ff8e40c)
+Link to Onshape file: [Onshape] https://cad.onshape.com/documents/501ce9a5619591c04ff8e40c
 ---
 
 ## Overview
