@@ -1,12 +1,13 @@
 # gulamannen-reference-humanoids
 
-![GulaMannen configurations](GulaMannen configurations.png)
+![GulaMannen configurations](gulaMannen_configurations.png)
 
 GulaMannen is a modular humanoid reference platform developed to support simulation-first morphology exploration.  
 It provides a structured set of humanoid configurations that allow robotics teams to evaluate proportions, joint architectures, and workspace compatibility before committing to a custom mechanical design.
 
 The platform is intended as a reusable baseline for research, prototyping, and early-stage humanoid development.
 
+Link to Onshape file: [https://cad.onshape.com/documents/501ce9a5619591c04ff8e40c/w/2dc6661522066c4232336a9b/e/3683eb6198817770f1f8b17c]
 ---
 
 ## Overview
